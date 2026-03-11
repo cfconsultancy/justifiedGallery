@@ -7,3 +7,16 @@
 For settings go to  https://github.com/miromannino/Justified-Gallery
 
 This is a pure vanille javascript so no Jquery needed
+
+Example setting
+
+    justifiedGallery('.content_album', {
+        rowHeight: 150,
+        margins: 6,
+        maxRowHeight: null,
+        lastRow : 'justify',
+        margins : 6,
+        captions : true,
+        randomize: false,
+        waitThumbnailsLoad : true
+    });
