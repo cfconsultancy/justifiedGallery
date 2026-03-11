@@ -6,4 +6,4 @@
 
 For settings go to  https://github.com/miromannino/Justified-Gallery
 
-This is pure vanille javascript so no Jquery needed
+This is a pure vanille javascript so no Jquery needed
